@@ -547,21 +547,21 @@ h5 {
   .information-text h4 {
     margin-bottom: .5rem;
     margin-right: .5rem;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 1.5rem;
   }
 
   .information-text p {
     margin-bottom: .5rem;
     margin-right: .5rem;
-    font-family: 'Raleway', sans-serif;
-    font-size: .75rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: .85rem;
   }
 
   .information-text a {
     text-decoration: none;
     color: #4b90e2;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
   }
 
   /* courses */
@@ -628,7 +628,7 @@ h5 {
   .course-text p {
     padding-bottom: 1rem;
     color: #4a4a4a;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
   }
 
   /* Exhibit Video */
@@ -738,7 +738,7 @@ h5 {
   .video-element-text p {
     margin-bottom: .5rem;
     color: #5d5d5d;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
   }
 
   /* Footer */
@@ -764,6 +764,7 @@ h5 {
 
   footer .privacy {
     display: flex;
+    margin: 0 1.5rem;
   }
 
   footer .privacy a {
